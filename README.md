@@ -1,7 +1,8 @@
+ [![StandWithPalestineBadgeBordered](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/bordered/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
+
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+</div>   
 
 ### <div align="center">I'm Noha, A Software Engineer (Frontend Development).</div>  
   
@@ -17,7 +18,6 @@ Overall, my passion for frontend development is evident in my dedication to cont
   
 
 <br/>  
-
 
 ## My Skill Set  
 <div align="center">  
