@@ -1,5 +1,3 @@
- [![StandWithPalestineBadgeBordered](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/bordered/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
-
 <div align="center">
 
 # Hi, I'm Noha! 👋
