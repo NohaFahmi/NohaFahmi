@@ -9,11 +9,11 @@
 I enjoy turning ideas and designs into things people can actually use.
 From responsive landing pages to dashboards and business applications, I like building interfaces that are clean, practical, and easy to maintain.
 
-<p>
-  <a href="https://www.upwork.com/freelancers/~016ffd915620140dfa?mp_source=share">Upwork</a> •
-  <a href="https://www.linkedin.com/in/noha-m-bahaa-eldin">LinkedIn</a> •
-  <a href="https://github.com/NohaFahmi">GitHub</a>
-</p>
+
+[![GitHub](https://img.shields.io/badge/-NohaFahmi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NohaFahmi)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noha-m-bahaa-eldin)
+[![Upwork](https://img.shields.io/badge/-Hire_me_on_Upwork-14A800?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~016ffd915620140dfa?mp_source=share)
+
 
 </div>
 
