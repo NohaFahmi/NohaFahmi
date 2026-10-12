@@ -28,16 +28,7 @@ I’m a frontend engineer based in Egypt. Most of my work has been on business a
 
 One thing I genuinely enjoy is taking a messy workflow and making it feel straightforward for the person using it. I also care about what happens after a feature ships: can someone understand the code six months later?
 
-## 🌟 A few things outside the editor
-
-- 🎬 **Sci-fi plot twists are my thing.** *Dark* is one of my favorites — I love a story that makes me connect the dots.
-- 🎾 **I play tennis** (or try to get back on the court when life gets busy).
-- 🧶 **I like making things away from a screen, too.** Crochet, embroidery, and punch needle projects are a different kind of debugging.
-- 📚 **I'm working on reading more consistently.** My to-read list is a lot more ambitious than my reading schedule.
-- 🧪 **I’m usually curious about another framework.** Sometimes that ends in a side project; sometimes it ends in a folder of experiments.
-
 ---
-
 ## 🛠️ Tech Stack
 
 ### Frontend
