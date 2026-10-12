@@ -83,7 +83,7 @@ One thing I genuinely enjoy is taking a messy workflow and making it feel straig
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="./assets/arabic-saas-landing-page.png" alt="Arabic SaaS Landing Page" />
+      <img src="./assets/arabic-saas.png" alt="Arabic SaaS Landing Page" />
       <h3>Arabic SaaS Landing Page | Astro &amp; Tailwind CSS</h3>
       <p>
         A bilingual landing page for a cloud accounting SaaS platform.
@@ -92,7 +92,7 @@ One thing I genuinely enjoy is taking a messy workflow and making it feel straig
       </p>
     </td>
     <td width="50%" valign="top">
-      <img src="./assets/react-landing-page-contentful-smart-hive.png" alt="Smart Hive React Landing Page" />
+      <img src="./assets/contentful-smart-hive.png" alt="Smart Hive React Landing Page" />
       <h3>React Landing Page with Contentful CMS | Smart Hive</h3>
       <p>
         A responsive React and TypeScript landing page connected to Contentful CMS.
