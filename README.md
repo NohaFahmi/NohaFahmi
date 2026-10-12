@@ -6,14 +6,15 @@
 
 ### Frontend Engineer | Web Apps, Dashboards & SaaS Platforms
 
-I enjoy turning ideas and designs into things people can actually use.
-From responsive landing pages to dashboards and business applications, I like building interfaces that are clean, practical, and easy to maintain.
+I spend most of my time building web apps, figuring out complicated UI flows, and occasionally trying a new framework just because I’m curious.
 
+💻 Angular Developer | 🧶 Crafting Enthusiast | 🧪 Framework Explorer
 
-[![GitHub](https://img.shields.io/badge/-NohaFahmi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NohaFahmi)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noha-m-bahaa-eldin)
-[![Upwork](https://img.shields.io/badge/-Hire_me_on_Upwork-14A800?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~016ffd915620140dfa?mp_source=share)
-
+<p>
+  <a href="https://github.com/NohaFahmi"><img alt="GitHub" src="https://img.shields.io/badge/-NohaFahmi-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/noha-m-bahaa-eldin"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/~016ffd915620140dfa?mp_source=share"><img alt="Upwork" src="https://img.shields.io/badge/-Hire_me_on_Upwork-14A800?style=flat-square&logo=upwork&logoColor=white" /></a>
+</p>
 
 </div>
 
@@ -21,11 +22,19 @@ From responsive landing pages to dashboards and business applications, I like bu
 
 ## ✨ A little about me
 
-I'm a frontend engineer with 4+ years of professional experience building web applications, dashboards, and business systems.
+I’m a frontend engineer based in Egypt. Most of my work has been on business applications — the kind with lots of tables, filters, forms, permissions, and edge cases that never fit neatly into a screenshot.
 
-I work mostly with **TypeScript** and enjoy using different tools depending on the project. Sometimes that means building an Angular dashboard with complex workflows, and other times it's a React landing page connected to a CMS.
+**Angular and TypeScript** have been a big part of my work, but I don’t like sticking to one framework. I’ve also built projects with **React, Next.js, Astro, and Ionic**, and I experiment with backend tools like **Node.js and NestJS** in my own projects.
 
-I care about the small details too — making an interface feel smooth, solving tricky UI problems, and keeping the code easy to come back to later.
+One thing I genuinely enjoy is taking a messy workflow and making it feel straightforward for the person using it. I also care about what happens after a feature ships: can someone understand the code six months later?
+
+## 🌟 A few things outside the editor
+
+- 🎬 **Sci-fi plot twists are my thing.** *Dark* is one of my favorites — I love a story that makes me connect the dots.
+- 🎾 **I play tennis** (or try to get back on the court when life gets busy).
+- 🧶 **I like making things away from a screen, too.** Crochet, embroidery, and punch needle projects are a different kind of debugging.
+- 📚 **I'm working on reading more consistently.** My to-read list is a lot more ambitious than my reading schedule.
+- 🧪 **I’m usually curious about another framework.** Sometimes that ends in a side project; sometimes it ends in a folder of experiments.
 
 ---
 
@@ -59,8 +68,6 @@ I care about the small details too — making an interface feel smooth, solving 
 ---
 
 ## 🚀 Featured Projects
-
-> Save your images inside your GitHub profile repo in a folder called `assets/` using the same filenames shown below.
 
 <table>
   <tr>
@@ -107,13 +114,9 @@ I care about the small details too — making an interface feel smooth, solving 
 
 ---
 
-## 💻 What I Like Working On
+## 💻 The kind of problems I like
 
-- Web apps and business management systems
-- Dashboards, charts, and data-heavy interfaces
-- Responsive websites and landing pages
-- API integrations and reusable UI components
-- Improving existing applications and refactoring frontend code
+A tricky form with too many states, a dashboard that needs to make sense of a lot of data, or an existing app that has become hard to change — those are the problems I enjoy untangling. I’m also happy building a small, polished landing page. Not every project needs to be huge to be interesting.
 
 ---
 
@@ -129,8 +132,11 @@ I care about the small details too — making an interface feel smooth, solving 
 
 ## 📫 Let's Connect
 
-- 💼 Upwork: https://www.upwork.com/freelancers/~016ffd915620140dfa?mp_source=share
-- 🔗 LinkedIn: https://www.linkedin.com/in/noha-m-bahaa-eldin
-- 💻 GitHub: https://github.com/NohaFahmi
-
+<div align="center">
+<p>
+  <a href="https://github.com/NohaFahmi"><img alt="GitHub" src="https://img.shields.io/badge/-NohaFahmi-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/noha-m-bahaa-eldin"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/~016ffd915620140dfa?mp_source=share"><img alt="Upwork" src="https://img.shields.io/badge/-Hire_me_on_Upwork-14A800?style=flat-square&logo=upwork&logoColor=white" /></a>
+</p>
+</div>
 
