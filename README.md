@@ -113,10 +113,13 @@ A tricky form with too many states, a dashboard that needs to make sense of a lo
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=NohaFahmi&show_icons=true&hide_border=true" alt="Noha's GitHub stats" />
   <br/>
+</div>
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NohaFahmi&layout=compact&hide_border=true" alt="Top languages" />
+  <br/>
 </div>
 
 ---
