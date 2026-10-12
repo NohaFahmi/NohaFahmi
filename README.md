@@ -92,7 +92,7 @@ One thing I genuinely enjoy is taking a messy workflow and making it feel straig
       </p>
     </td>
     <td width="50%" valign="top">
-      <img src="./assets/contentful-smart-hive.png" alt="Smart Hive React Landing Page" />
+      <img src="./assets/react-contentful-smart-hive.png" alt="Smart Hive React Landing Page" />
       <h3>React Landing Page with Contentful CMS | Smart Hive</h3>
       <p>
         A responsive React and TypeScript landing page connected to Contentful CMS.
